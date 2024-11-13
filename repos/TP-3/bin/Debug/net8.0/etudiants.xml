@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEtudiant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Etudiant>
+    <Numero>1234</Numero>
+    <Nom>AZER</Nom>
+    <Prenom>1234</Prenom>
+    <Filiere>AZE</Filiere>
+    <Notes>
+      <float>11.851781</float>
+      <float>6.9067874</float>
+      <float>5.2449155</float>
+      <float>8.838331</float>
+      <float>2.0445793</float>
+    </Notes>
+  </Etudiant>
+  <Etudiant>
+    <Numero>123</Numero>
+    <Nom>AZER</Nom>
+    <Prenom>AZER</Prenom>
+    <Filiere>AZER</Filiere>
+    <Notes>
+      <float>16.05746</float>
+      <float>6.4851375</float>
+      <float>3.5298502</float>
+      <float>9.036361</float>
+      <float>9.5021</float>
+    </Notes>
+  </Etudiant>
+</ArrayOfEtudiant>

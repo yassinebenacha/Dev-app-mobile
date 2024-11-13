@@ -1,0 +1,15 @@
+C:\Users\yssin\source\repos\TP-3\bin\Debug\net8.0\TP-3.exe
+C:\Users\yssin\source\repos\TP-3\bin\Debug\net8.0\TP-3.deps.json
+C:\Users\yssin\source\repos\TP-3\bin\Debug\net8.0\TP-3.runtimeconfig.json
+C:\Users\yssin\source\repos\TP-3\bin\Debug\net8.0\TP-3.dll
+C:\Users\yssin\source\repos\TP-3\bin\Debug\net8.0\TP-3.pdb
+C:\Users\yssin\source\repos\TP-3\obj\Debug\net8.0\TP-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yssin\source\repos\TP-3\obj\Debug\net8.0\TP-3.AssemblyInfoInputs.cache
+C:\Users\yssin\source\repos\TP-3\obj\Debug\net8.0\TP-3.AssemblyInfo.cs
+C:\Users\yssin\source\repos\TP-3\obj\Debug\net8.0\TP-3.csproj.CoreCompileInputs.cache
+C:\Users\yssin\source\repos\TP-3\obj\Debug\net8.0\TP-3.dll
+C:\Users\yssin\source\repos\TP-3\obj\Debug\net8.0\refint\TP-3.dll
+C:\Users\yssin\source\repos\TP-3\obj\Debug\net8.0\TP-3.pdb
+C:\Users\yssin\source\repos\TP-3\obj\Debug\net8.0\TP-3.genruntimeconfig.cache
+C:\Users\yssin\source\repos\TP-3\obj\Debug\net8.0\ref\TP-3.dll
+C:\Users\yssin\source\repos\TP-3\obj\Debug\net8.0\TP-3.sourcelink.json
